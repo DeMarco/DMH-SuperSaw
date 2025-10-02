@@ -2375,7 +2375,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Decay"
+		(property "Value" "Decay / Release"
 			(at 116.84 50.8 0)
 			(effects
 				(font
@@ -3510,7 +3510,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Exp CV"
+		(property "Value" "Exp FM CV"
 			(at 116.84 76.2 0)
 			(effects
 				(font
